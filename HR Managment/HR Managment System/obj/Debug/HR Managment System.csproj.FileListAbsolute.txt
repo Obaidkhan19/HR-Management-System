@@ -1,0 +1,10 @@
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\bin\Debug\HR Managment System.exe.config
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\bin\Debug\HR Managment System.exe
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\bin\Debug\HR Managment System.pdb
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\HR Managment System.csprojAssemblyReference.cache
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\MainForm.resources
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\HR_Managment_System.Properties.Resources.resources
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\HR Managment System.csproj.GenerateResource.cache
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\HR Managment System.csproj.CoreCompileInputs.cache
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\HR Managment System.exe
+D:\BS IT\5 SEMESTER\VISUAL PROGRAMMING\projects samples\hr-management-system-master\HR Managment System\HR Managment System\obj\Debug\HR Managment System.pdb
